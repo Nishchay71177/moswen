@@ -1,73 +1,80 @@
-# Welcome to our hackazard project
+🚀 Project Title
+Learn-solve-explain with MOSWEN
 
-## Project info
+📌 Problem Statement
+Weave AI magic with Groq
 
-**URL**: https://lovable.dev/projects/9dd2358d-5caa-4739-9964-effb4cef00f5
 
-## How can I edit this code?
+🎯 Objective
+To create an interactive web platform that helps students solve math questions by providing step-by-step solutions, improving their problem-solving skills and enhancing their understanding of mathematical concepts.
 
-There are several ways of editing your application.
+🧠 Team & Approach
+Team Name:Users
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9dd2358d-5caa-4739-9964-effb4cef00f5) and start prompting.
+Team Members:
+Name 1 Shraddhanjali Barik(Shraddhanjali04-github profile ,https://www.linkedin.com/in/shraddhanjali-barik-00bb9634b/ -linkedin
+Name 2Nishchay Garg(Nischay7117-github profile , https://www.linkedin.com/in/nishchay-garg-a04994351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app-linkedin)
+Name 3 Mayank Jha(MayankJha8274-github profile ,https://www.linkedin.com/in/mayank-jha-08b25832a/ - linkedin)
 
-Changes made via Lovable will be committed automatically to this repo.
+Your Approach:
+To help students understand and solve math problems easily through step-by-step solutions, making learning more accessible and effective.
+DIFFICULTIES WE FACED ARE:
+1 Designing a user-friendly and responsive interface.
 
-**Use your preferred IDE**
+2 Implementing accurate step-by-step math solutions.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+3 Handling different types of math problems dynamically.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+4 Ensuring fast loading and smooth performance.
 
-Follow these steps:
+Debugging and deploying the site using Vercel.
+🛠️ Tech Stack
+Core Technologies Used:
+Frontend:react, tailwind CSS, framer motion
+Backend:Sql
+Database:Supabase
+APIs:Groq AI
+Hosting:vercel
+Sponsor Technologies Used (if any):
+ Groq: How you used Groq
+ 
+✨ Key Features
+Highlight the most important features of your project:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+✅ Step by step solutions
+✅ Formula library
+✅ Practise worksheets
+✅ Voice and image inputs 
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+📽️ Demo & Deliverables
+Demo Video Link:https://1drv.ms/v/c/f4110187957f5515/EYh9T12qrh1Nm6--yc9IUDsBqgPA0Qxr8CvoHNmoyXKbog?e=3gEH2A
+Pitch Deck / PPT Link: https://1drv.ms/p/c/f4110187957f5515/EYzCSCM_0oZHgahLbSpKs-4B_7x3vd5tpddUPmqEtAu5Hg?e=ZTUCN2
+✅ Tasks & Bonus Checklist
+ All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form ✅
+ 
+ All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points) (Details in Participant Manual)✅
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+🧪 How to Run the Project
+Requirements:
+Node.js / Python / Docker / etc.
 
-**Edit a file directly in GitHub**
+Local Setup:
+# Clone the repo
+https://github.com/Nishchay71177/moswen.git
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🧬 Future Scope
+List improvements, extensions, or follow-up features:
+1 Mobile app for better access.
+2 Expansion to other subjects like physics, chemistry, etc.
+3 AI chatbot for real time doubts.
+4 Analytic dashboard for students/teachers.
+5 Gamified learning for engagement.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9dd2358d-5caa-4739-9964-effb4cef00f5) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+🔗Resouces/credits
+Groq API
+Figma and chat gpt
+Acknowledgements
+🏁 Final Words
+Building this website was both challenging and rewarding. We learned a lot about web development, especially how to handle user input and generate dynamic content. It improved my problem-solving skills and gave me real-world experience in deploying a functional app that can genuinely help others.
