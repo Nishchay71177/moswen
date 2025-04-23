@@ -49,7 +49,7 @@ Highlight the most important features of your project:
 
 
 📽️ Demo & Deliverables
-Demo Video Link: "C:\Users\Shraddhanjali Barik\OneDrive\Eduverse Math Solver - Google Chrome 2025-04-23 17-16-23.mp4"
+Demo Video Link:https://1drv.ms/v/c/f4110187957f5515/EYh9T12qrh1Nm6--yc9IUDsBqgPA0Qxr8CvoHNmoyXKbog?e=3gEH2A
 Pitch Deck / PPT Link: https://1drv.ms/p/c/f4110187957f5515/EYzCSCM_0oZHgahLbSpKs-4B_7x3vd5tpddUPmqEtAu5Hg?e=ZTUCN2
 ✅ Tasks & Bonus Checklist
  All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form ✅
