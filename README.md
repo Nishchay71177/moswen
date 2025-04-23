@@ -55,7 +55,6 @@ Pitch Deck / PPT Link: https://1drv.ms/p/c/f4110187957f5515/EYzCSCM_0oZHgahLbSpK
  All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form ✅
  
  All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points) (Details in Participant Manual)✅
-(Mark with ✅ if completed)
 
 🧪 How to Run the Project
 Requirements:
