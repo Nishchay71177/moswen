@@ -45,7 +45,7 @@ Highlight the most important features of your project:
 ✅ Step by step solutions
 ✅ Formula library
 ✅ Practise worksheets
-✅ Voice and image inputs
+✅ Voice and image inputs 
 
 
 📽️ Demo & Deliverables
