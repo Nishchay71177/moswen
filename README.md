@@ -9,6 +9,9 @@
 
 >To create an interactive web platform that helps students solve math questions by providing step-by-step solutions, improving their problem-solving skills and enhancing their understanding of mathematical concepts.
 
+## project name
+- Learn-solve-explain with Moswen
+
 ## 🎯 Objective
 >To make problem solving in math easier
 ---
