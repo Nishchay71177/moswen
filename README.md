@@ -22,10 +22,9 @@
 `users`
 
 ### Team Members:  
-- Name 1 shraddhanjali barik (Shraddhanjali04/github profile),(https://www.linkedin.com/in/shraddhanjali-barik-00bb9634b/linkedin url)
-- Name 2  Nishchay Garg (Nishchay71177/githib profile),(https://www.linkedin.com/in/nishchay-garg-a04994351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/linkedin)
-- Name 3  
-*(Add links if you want)*
+- Name 1 shraddhanjali barik (Shraddhanjali04/github profile),(https://www.linkedin.com/in/shraddhanjali-barik-00bb9634b/ linkedin url)
+- Name 2  Nishchay Garg (Nishchay71177/githib profile),(https://www.linkedin.com/in/ nishchay-garg-a04994351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/linkedin)
+- Name 3  Mayank jha (MayankJha8274/github profile),(https://www.linkedin.com/in/mayank-jha-08b25832a/ linkedin url
 
 ### Your Approach:  
 - Why you chose this problem ->As a student, WE noticed that many of my peers struggled with understanding math concepts and solving problems on their own. WE wanted to build a platform that not only provides answers but also explains the steps clearly, making learning more accessible and less frustrating. This website aims to bridge that gap by offering instant, easy-to-understand math support for students.
