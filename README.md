@@ -2,55 +2,45 @@
 
 # 🚀 Project Title
 
-> A one-line tagline or mission statement for your project.
-
+> Weave AI magic with groq
 ---
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
-
----
+>To create an interactive web platform that helps students solve math questions by providing step-by-step solutions, improving their problem-solving skills and enhancing their understanding of mathematical concepts.
 
 ## 🎯 Objective
-
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
-
+>To make problem solving in math easier
 ---
 
 ## 🧠 Team & Approach
 
 ### Team Name:  
-`Your team name here`
+`users`
 
 ### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
-- Name 2  
+- Name 1 shraddhanjali barik (Shraddhanjali04/github profile),(https://www.linkedin.com/in/shraddhanjali-barik-00bb9634b/linkedin url)
+- Name 2  Nishchay Garg (Nishchay71177/githib profile),(https://www.linkedin.com/in/nishchay-garg-a04994351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/linkedin)
 - Name 3  
 *(Add links if you want)*
 
 ### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
+- Why you chose this problem ->As a student, WE noticed that many of my peers struggled with understanding math concepts and solving problems on their own. WE wanted to build a platform that not only provides answers but also explains the steps clearly, making learning more accessible and less frustrating. This website aims to bridge that gap by offering instant, easy-to-understand math support for students.
+- Key challenges you addressed -> Designing a user-friendly and responsive interface.Implementing accurate step-by-step math solutions.Handling different types of math problems dynamically.Ensuring fast loading and smooth performance.Debugging and deploying the site using Vercel.  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
-- APIs:
-- Hosting:
+- Frontend: react, tailwind,framer motion
+- Backend:react,type script, vite 
+- Database:supabase,SQl
+- APIs: groq
+- Hosting: vercel
 
 ### Sponsor Technologies Used (if any):
-- [ ] **Groq:** _How you used Groq_  
+- [✅] **Groq:** _How you used Groq_  
 - [ ] **Monad:** _Your blockchain implementation_  
 - [ ] **Fluvio:** _Real-time data handling_  
 - [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
@@ -63,10 +53,10 @@ Briefly describe the real-world use case and the value it provides.
 
 Highlight the most important features of your project:
 
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
+- ✅ Feature 1  step - by - step solution
+- ✅ Feature 2  formula library
+- ✅ Feature 3  image,text,voice 
+- ✅ Feature 4  personal history traking
 
 Add images, GIFs, or screenshots if helpful!
 
@@ -74,16 +64,16 @@ Add images, GIFs, or screenshots if helpful!
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link:** [https://1drv.ms/v/c/f4110187957f5515/EYh9T12qrh1Nm6--yc9IUDsBqgPA0Qxr8CvoHNmoyXKbog?e=PQSgNR]
+- **Pitch Deck / PPT Link:** [https://1drv.ms/p/c/f4110187957f5515/EYzCSCM_0oZHgahLbSpKs-4B_7x3vd5tpddUPmqEtAu5Hg?e=SJC9JG]
 
 ---
 
 ## ✅ Tasks & Bonus Checklist
 
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- [✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
 - [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+- [✅] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 
 *(Mark with ✅ if completed)*
 
@@ -92,47 +82,42 @@ Add images, GIFs, or screenshots if helpful!
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+- Node.js
+- API Keys (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)
 
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/your-team/project-name
+git clone https://github.com/Nishchay71177/moswen.git
 
 # Install dependencies
-cd project-name
+cd moswen
 npm install
 
 # Start development server
-npm run dev
+npm run
 ```
 
 Provide any backend/frontend split or environment setup notes here.
 
----
+--- 
 
 ## 🧬 Future Scope
+- mobile app for better access
+- expansion to other subjects
+- AI chatbot
+- analytics dashboard for parents/teachers
 
-List improvements, extensions, or follow-up features:
-
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
-
----
 
 ## 📎 Resources / Credits
 
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
+- APIs- groq or datasets used subabase
+- Open source libraries or tools referenced
+- Acknowledgements chatgpt,beloved friends
 
 ---
 
 ## 🏁 Final Words
 
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
-
+Building this website was both challenging and rewarding. WE learned a lot about web development, especially how to handle user input and generate dynamic content. It improved my problem-solving skills and gave me real-world experience in deploying a functional app that can genuinely help others.
 ---
