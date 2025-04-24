@@ -2,18 +2,18 @@
 
 # 🚀 Project Title
 
-> Weave AI magic with groq
+> Learn-solve-explain with 
 ---
 
 ## 📌 Problem Statement
 
->To create an interactive web platform that helps students solve math questions by providing step-by-step solutions, improving their problem-solving skills and enhancing their understanding of mathematical concepts.
+>weave AI magic with groq
 
 ## project name
-- Learn-solve-explain with Moswen
+- Moswen
 
 ## 🎯 Objective
->To make problem solving in math easier
+>To create an interactive web platform that helps students solve math questions by providing step-by-step solutions, improving their problem-solving skills and enhancing their understanding of mathematical concepts.
 ---
 
 ## 🧠 Team & Approach
